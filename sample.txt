@@ -18,4 +18,10 @@ jjjjjjj
 
 ..
 kmkpjkjkl
+<<<<<<< HEAD
 >
+=======
+
+새로운 것
+wsd
+
